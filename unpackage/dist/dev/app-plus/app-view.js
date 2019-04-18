@@ -1068,8 +1068,8 @@ function gz$gwx_2(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_2)return __WXML_GLOBAL__.ops_cached.$gwx_2
 __WXML_GLOBAL__.ops_cached.$gwx_2=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'3abd1c79'])
-Z([3,'_view 3abd1c79 top'])
+Z([3,'a4fb2a10'])
+Z([3,'_view a4fb2a10 top'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_2);return __WXML_GLOBAL__.ops_cached.$gwx_2
 }
 function gz$gwx_3(){
@@ -1077,15 +1077,30 @@ if( __WXML_GLOBAL__.ops_cached.$gwx_3)return __WXML_GLOBAL__.ops_cached.$gwx_3
 __WXML_GLOBAL__.ops_cached.$gwx_3=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'3abd1c79'])
+Z([3,'a4fb2a10'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_3);return __WXML_GLOBAL__.ops_cached.$gwx_3
 }
 function gz$gwx_4(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_4)return __WXML_GLOBAL__.ops_cached.$gwx_4
 __WXML_GLOBAL__.ops_cached.$gwx_4=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'ffd6c0c6'])
-Z([3,'_view ffd6c0c6 top'])
+Z([3,'fee9f4c8'])
+Z([3,'_div fee9f4c8'])
+Z([3,'app'])
+Z([3,'_div fee9f4c8 header'])
+Z([3,'_router-link fee9f4c8 nav-item-one'])
+Z([3,'/task'])
+Z([3,'推荐'])
+Z([3,'_div fee9f4c8 link'])
+Z(z[4])
+Z([3,'专题'])
+Z(z[7])
+Z(z[4])
+Z([3,'b'])
+Z([3,'连载'])
+Z(z[7])
+Z([3,'_div fee9f4c8 container'])
+Z([3,'_router-view fee9f4c8'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_4);return __WXML_GLOBAL__.ops_cached.$gwx_4
 }
 function gz$gwx_5(){
@@ -1093,15 +1108,15 @@ if( __WXML_GLOBAL__.ops_cached.$gwx_5)return __WXML_GLOBAL__.ops_cached.$gwx_5
 __WXML_GLOBAL__.ops_cached.$gwx_5=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'ffd6c0c6'])
+Z([3,'fee9f4c8'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_5);return __WXML_GLOBAL__.ops_cached.$gwx_5
 }
 function gz$gwx_6(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_6)return __WXML_GLOBAL__.ops_cached.$gwx_6
 __WXML_GLOBAL__.ops_cached.$gwx_6=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'1a915131'])
-Z([3,'_div 1a915131'])
+Z([3,'601bb0b0'])
+Z([3,'_div 601bb0b0'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_6);return __WXML_GLOBAL__.ops_cached.$gwx_6
 }
 function gz$gwx_7(){
@@ -1109,15 +1124,15 @@ if( __WXML_GLOBAL__.ops_cached.$gwx_7)return __WXML_GLOBAL__.ops_cached.$gwx_7
 __WXML_GLOBAL__.ops_cached.$gwx_7=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'1a915131'])
+Z([3,'601bb0b0'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_7);return __WXML_GLOBAL__.ops_cached.$gwx_7
 }
 function gz$gwx_8(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_8)return __WXML_GLOBAL__.ops_cached.$gwx_8
 __WXML_GLOBAL__.ops_cached.$gwx_8=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'bddda212'])
-Z([3,'_div bddda212'])
+Z([3,'77bcd9b6'])
+Z([3,'_div 77bcd9b6'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_8);return __WXML_GLOBAL__.ops_cached.$gwx_8
 }
 function gz$gwx_9(){
@@ -1125,15 +1140,15 @@ if( __WXML_GLOBAL__.ops_cached.$gwx_9)return __WXML_GLOBAL__.ops_cached.$gwx_9
 __WXML_GLOBAL__.ops_cached.$gwx_9=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'bddda212'])
+Z([3,'77bcd9b6'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_9);return __WXML_GLOBAL__.ops_cached.$gwx_9
 }
 function gz$gwx_10(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_10)return __WXML_GLOBAL__.ops_cached.$gwx_10
 __WXML_GLOBAL__.ops_cached.$gwx_10=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'2dc5df4d'])
-Z([3,'_view 2dc5df4d content'])
+Z([3,'bee9a468'])
+Z([3,'_view bee9a468 content'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_10);return __WXML_GLOBAL__.ops_cached.$gwx_10
 }
 function gz$gwx_11(){
@@ -1141,7 +1156,7 @@ if( __WXML_GLOBAL__.ops_cached.$gwx_11)return __WXML_GLOBAL__.ops_cached.$gwx_11
 __WXML_GLOBAL__.ops_cached.$gwx_11=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'2dc5df4d'])
+Z([3,'bee9a468'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_11);return __WXML_GLOBAL__.ops_cached.$gwx_11
 }
 __WXML_GLOBAL__.ops_set.$gwx=z;
@@ -1155,9 +1170,9 @@ return r
 }
 e_[x[0]]={f:m0,j:[],i:[],ti:[],ic:[]}
 d_[x[1]]={}
-d_[x[1]]["3abd1c79"]=function(e,s,r,gg){
+d_[x[1]]["a4fb2a10"]=function(e,s,r,gg){
 var z=gz$gwx_2()
-var b=x[1]+':3abd1c79'
+var b=x[1]+':a4fb2a10'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/concern/concern.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[1]);return}
@@ -1204,17 +1219,64 @@ return r
 }
 e_[x[2]]={f:m2,j:[],i:[],ti:[x[3]],ic:[]}
 d_[x[4]]={}
-d_[x[4]]["ffd6c0c6"]=function(e,s,r,gg){
+d_[x[4]]["fee9f4c8"]=function(e,s,r,gg){
 var z=gz$gwx_4()
-var b=x[4]+':ffd6c0c6'
+var b=x[4]+':fee9f4c8'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/index/index.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[4]);return}
 p_[b]=true
 try{
 cs.push("./pages/index/index.vue.wxml:view:1:27")
-var oB=_n('view')
-_rz(z,oB,'class',1,e,s,gg)
+var oB=_mz(z,'view',['class',1,'id',1],[],e,s,gg)
+cs.push("./pages/index/index.vue.wxml:view:1:64")
+var xC=_n('view')
+_rz(z,xC,'class',3,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:router-link:1:99")
+var oD=_mz(z,'router-link',['class',4,'to',1],[],e,s,gg)
+var fE=_oz(z,6,e,s,gg)
+_(oD,fE)
+cs.push("./pages/index/index.vue.wxml:view:1:172")
+var cF=_n('view')
+_rz(z,cF,'class',7,e,s,gg)
+cs.pop()
+_(oD,cF)
+cs.pop()
+_(xC,oD)
+cs.push("./pages/index/index.vue.wxml:router-link:1:226")
+var hG=_mz(z,'router-link',['to',-1,'class',8],[],e,s,gg)
+var oH=_oz(z,9,e,s,gg)
+_(hG,oH)
+cs.push("./pages/index/index.vue.wxml:view:1:291")
+var cI=_n('view')
+_rz(z,cI,'class',10,e,s,gg)
+cs.pop()
+_(hG,cI)
+cs.pop()
+_(xC,hG)
+cs.push("./pages/index/index.vue.wxml:router-link:1:345")
+var oJ=_mz(z,'router-link',['class',11,'to',1],[],e,s,gg)
+var lK=_oz(z,13,e,s,gg)
+_(oJ,lK)
+cs.push("./pages/index/index.vue.wxml:view:1:414")
+var aL=_n('view')
+_rz(z,aL,'class',14,e,s,gg)
+cs.pop()
+_(oJ,aL)
+cs.pop()
+_(xC,oJ)
+cs.pop()
+_(oB,xC)
+cs.push("./pages/index/index.vue.wxml:view:1:475")
+var tM=_n('view')
+_rz(z,tM,'class',15,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:router-view:1:513")
+var eN=_n('router-view')
+_rz(z,eN,'class',16,e,s,gg)
+cs.pop()
+_(tM,eN)
+cs.pop()
+_(oB,tM)
 cs.pop()
 _(r,oB)
 }catch(err){
@@ -1253,9 +1315,9 @@ return r
 }
 e_[x[5]]={f:m4,j:[],i:[],ti:[x[6]],ic:[]}
 d_[x[7]]={}
-d_[x[7]]["1a915131"]=function(e,s,r,gg){
+d_[x[7]]["601bb0b0"]=function(e,s,r,gg){
 var z=gz$gwx_6()
-var b=x[7]+':1a915131'
+var b=x[7]+':601bb0b0'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/jianshuzuan/jianshuzuan.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[7]);return}
@@ -1302,9 +1364,9 @@ return r
 }
 e_[x[8]]={f:m6,j:[],i:[],ti:[x[9]],ic:[]}
 d_[x[10]]={}
-d_[x[10]]["bddda212"]=function(e,s,r,gg){
+d_[x[10]]["77bcd9b6"]=function(e,s,r,gg){
 var z=gz$gwx_8()
-var b=x[10]+':bddda212'
+var b=x[10]+':77bcd9b6'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/messages/messages.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[10]);return}
@@ -1351,9 +1413,9 @@ return r
 }
 e_[x[11]]={f:m8,j:[],i:[],ti:[x[12]],ic:[]}
 d_[x[13]]={}
-d_[x[13]]["2dc5df4d"]=function(e,s,r,gg){
+d_[x[13]]["bee9a468"]=function(e,s,r,gg){
 var z=gz$gwx_10()
-var b=x[13]+':2dc5df4d'
+var b=x[13]+':bee9a468'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/ucenter/ucenter.vue.wxml"],"",1)
 if(p_[b]){_wl(b,x[13]);return}
@@ -1457,7 +1519,7 @@ var setCssToHead = function(file, _xcInvalid, info) {
 var Ca = {};
 var css_id;
 var info = info || {};
-var _C= [[[2,1],],[],];
+var _C= [[[2,1],],["#app{ background-color: rgb(244,244,244); }\n.",[1],"header{ display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; height: 50px; background-color: #fff; font-size: 20px; padding-left: 200px; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; }\n.",[1],"nav-item-logo .",[1],"_img{ width: 120px; height: 30px; margin-right: 50px; margin: 1 1 50%; padding-right: 100px; }\n.",[1],"nav-item-one{ display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; margin-right: 20px; font-size: 15px; color: black; }\n.",[1],"nav-item-one .",[1],"_img{ width: 20px; height: 20px; margin-right:5px; }\n.",[1],"nav-item-two{ display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; color: black; font-size: 15px; padding-right: 25px; }\n.",[1],"nav-item-two .",[1],"_img{ width: 30px; height: 30px; border-radius: 100%; margin-right: 10px; }\n.",[1],"nav-item{ width: 100px; margin-right: 20px; }\n.",[1],"container { width: 85%; margin: 0 auto; padding-bottom: 40px; }\n.",[1],"_a{ text-decoration: none; color: #aaa; }\n.",[1],"content{ background-color: lightgray; color: #FFFFFF; }\n.",[1],"_a:hover{ color:rgb(2,165,218); }\n.",[1],"link{ margin-left: 15px; height: 12px; border: 0.5px solid gainsboro; background-color: gainsboro; }\n",],];
 function makeup(file, opt) {
 var _n = typeof(file) === "number";
 if ( _n && Ca.hasOwnProperty(file)) return "";
@@ -1521,9 +1583,9 @@ style.childNodes[0].nodeValue = css;
 }
 return rewritor;
 }
-setCssToHead([])();setCssToHead([[2,0]],undefined,{path:"./app.wxss"})();
+setCssToHead([])();setCssToHead([[2,0]],"Some selectors are not allowed in component wxss, including tag name selectors, ID selectors, and attribute selectors.(./app.wxss:2:1)",{path:"./app.wxss"})();
 
-__wxAppCode__['app.wxss']=setCssToHead([[2,0]],undefined,{path:"./app.wxss"});    
+__wxAppCode__['app.wxss']=setCssToHead([[2,0]],"Some selectors are not allowed in component wxss, including tag name selectors, ID selectors, and attribute selectors.(./app.wxss:2:1)",{path:"./app.wxss"});    
 __wxAppCode__['app.wxml']=$gwx('./app.wxml');
 
 ;var __pageFrameEndTime__ = Date.now();

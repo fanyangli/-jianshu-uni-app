@@ -1,17 +1,89 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*每个页面公共css */
+#app{
+	background-color: rgb(244,244,244);
+}
+.header{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 50px;
+	background-color: #fff;
+	font-size: 20px;
+	padding-left: 200px;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.nav-item-logo ._img{
+	width: 120px;
+	height: 30px;
+	margin-right: 50px;
+	margin: 1 1 50%;
+	padding-right: 100px;
+}
+.nav-item-one{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	margin-right: 20px;
+	font-size: 15px;
+	color: black;
+}
+.nav-item-one ._img{
+	width: 20px;
+	height: 20px;
+	margin-right:5px;
+}
+.nav-item-two{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	color: black;
+	font-size: 15px;
+	padding-right: 25px;
+}
+.nav-item-two ._img{
+	width: 30px;
+	height: 30px;
+	border-radius: 100%;
+	margin-right: 10px;
+}
+.nav-item{
+	width: 100px;
+	margin-right: 20px;
+}
+.container {
+	width: 85%;
+	margin: 0 auto;
+	padding-bottom: 40px;
+}
+._a{
+	text-decoration: none;
+	color: #aaa;
+}
+.content{
+	background-color: lightgray;
+	color: #FFFFFF;
+}
+._a:hover{
+	color:rgb(2,165,218);
+}
+.link{
+	margin-left: 15px;
+	height: 12px;
+	border: 0.5px solid gainsboro;
+	background-color: gainsboro;
+}
 
